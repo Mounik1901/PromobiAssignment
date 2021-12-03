@@ -1,0 +1,7 @@
+example_id                                                  | status | run_time        |
+----------------------------------------------------------- | ------ | --------------- |
+./spec/controllers/api/v0/courses_controller_spec.rb[1:1:1] | passed | 0.05241 seconds |
+./spec/controllers/api/v0/courses_controller_spec.rb[1:1:2] | passed | 0.00256 seconds |
+./spec/controllers/api/v0/courses_controller_spec.rb[1:2:1] | passed | 0.01142 seconds |
+./spec/controllers/api/v0/courses_controller_spec.rb[1:2:2] | passed | 0.04774 seconds |
+./spec/controllers/api/v0/courses_controller_spec.rb[1:2:3] | passed | 0.02366 seconds |
